@@ -1,0 +1,214 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: cursive;, sans-serif;
+	font-style: color:red;
+}
+
+.kotak{
+	width: 100%;
+	height: 100vh;
+	background-image: url();
+	background-size: cover;
+	background-position: center;
+	background-color: lightblue;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+.kartu {
+	background: #016064;
+	text-align: center;
+	padding: 50px;
+	height: 400px;
+	color: #fff;
+	position: relative;
+	border-radius: 20px;
+}
+.nim{
+	background: lightblue;
+	padding: 2%;
+	margin-top: 10px;
+	margin-right: 60px;
+	margin-left: 60px;
+	border-radius: 30px;
+	color: black;
+	
+}
+.nim:hover{ background-color: white;
+ color: blue; 
+ transform: scale(1.1); 
+ transition: 0.2s;
+  }
+.foto-profil{
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	background: #fff;
+	padding: 4px;
+	margin-top: 30px;
+}
+.foto-profil:hover{
+	transform: scale(1.1); 
+ transition: 0.2s;
+}
+.instagram{
+	width:40px;
+	position: absolute;
+	left: 30px;
+	top: 30px;
+}
+.instagram:hover{
+	transform: scale(1.1); 
+ transition: 0.2s;
+}
+.whatsapp{
+	width: 40px;
+	position: absolute;
+	right: 30px;
+	top: 30px;
+}
+.whatsapp:hover{
+	transform: scale(1.1); 
+ transition: 0.2s;
+}
+.kotak2{ 
+	width: 100%;
+	height: 100vh;
+	background-image: url();
+	background-size: cover;
+	background-position: center;
+	background-color: #2574a9;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.kartu2{
+	background: #89c4f4;
+	text-align: center;
+	padding: 50px;
+	height: 300px;
+	color: midnightblue;
+	position: relative;
+	border-radius: 20px;
+}
+h1:hover {color: purple; padding: 20px; transform: scale(1.1); 
+ transition: 0.2s;}
+ .nama-saya:hover{
+ 	color: purple; padding: 20px; transform: scale(1.1); 
+ transition: 0.2s;
+ }
+ .biodata{
+ 	background: lightblue;
+	padding: 2%;
+	margin-top: 10px;
+	margin-right: 80px;
+	margin-left: 80px;
+	border-radius: 30px;
+	font-family: cursive;
+	color: black
+ }
+ .biodata:hover{ background-color: white; 
+ 	border-radius: 0px;
+ 	color: #016064; padding: 4px; 
+ 	transform: scale(1.1); 
+ transition: 0.2s;
+ }
+ .project {background: lightblue;
+	padding: 2%;
+	margin-top: 10px;
+	margin-right: 80px;
+	margin-left: 80px;
+	border-radius: 30px;
+	font-family: cursive;
+	color: blue;
+ }
+ .project:hover{ background-color: #016064; 
+ 	border-radius: 0px;
+ 	color: #016064; padding: 4px; 
+ 	transform: scale(1.1); 
+ transition: 0.2s;
+ }
+ .kotak3{ 
+	width: 100%;
+	height: 100vh;
+	background-image: url();
+	background-size: cover;
+	background-position: center;
+	background-color: #52b2bf;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.kartu3{
+	background: #022d36;
+	text-align: center;
+	padding: 50px;
+	height: 300px;
+	color: midnightblue;
+	position: relative;
+	border-radius: 20px;
+}
+.bf10{
+	background: lightblue;
+	padding: 5px;
+	margin-top: 10px;
+	margin-right: 60px;
+	margin-left: 60px;
+	border-radius: 30px;
+	color: black;
+	
+}
+.bf10:hover{ background-color: white;
+ color: blue; 
+ transform: scale(1.1); 
+ transition: 0.2s;
+  }
+ .bf5{
+	background: lightblue;
+	padding: 5px;
+	margin-top: 5px;
+	margin-right: 60px;
+	margin-left: 60px;
+	border-radius: 30px;
+	color: black;
+	
+}
+.bf5:hover{ background-color: white;
+ color: blue; 
+ transform: scale(1.1); 
+ transition: 0.2s;
+  }
+ .form{
+	background: lightblue;
+	padding: 5px;
+	margin-top: 5px;
+	margin-right: 60px;
+	margin-left: 60px;
+	border-radius: 30px;
+	color: black;
+	
+}
+.form:hover{ background-color: white;
+ color: blue; 
+ transform: scale(1.1); 
+ transition: 0.2s;
+  }
+.formcss{
+	background: lightblue;
+	padding: 5px;
+	margin-top: 5px;
+	margin-right: 60px;
+	margin-left: 60px;
+	border-radius: 30px;
+	color: black;
+	
+}
+.formcss:hover{ background-color: white;
+ color: blue; 
+ transform: scale(1.1); 
+ transition: 0.2s;
+  }
+  .myproject{color: lightblue}
